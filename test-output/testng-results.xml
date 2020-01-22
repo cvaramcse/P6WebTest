@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16821" started-at="2020-01-20T18:16:55Z" finished-at="2020-01-20T18:17:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16821" started-at="2020-01-20T18:16:55Z" finished-at="2020-01-20T18:17:12Z">
+      <class name="com.p6.qa.testcases.UserAdministrationPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.p6.qa.testcases.UserAdministrationPageTest@3108bc]" name="setUp" is-config="true" duration-ms="10770" started-at="2020-01-20T23:46:55Z" finished-at="2020-01-20T23:47:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyRowCountTest()[pri:0, instance:com.p6.qa.testcases.UserAdministrationPageTest@3108bc]" name="verifyRowCountTest" duration-ms="6027" started-at="2020-01-20T23:47:05Z" finished-at="2020-01-20T23:47:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRowCountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.p6.qa.testcases.UserAdministrationPageTest@3108bc]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-01-20T23:47:12Z" finished-at="2020-01-20T23:47:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.p6.qa.testcases.UserAdministrationPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
