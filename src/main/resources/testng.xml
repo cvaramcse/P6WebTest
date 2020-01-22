@@ -1,7 +1,6 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="P6Web Tests">
 <listeners>
-	<listener class-name="com.p6.qa.ExtentReportListener" />
+	<listener class-name="com.p6.qa.ExtentReportListener.ExtentReportListener" />
 </listeners>
   <test name="P6Web Smoke Tests">
     <classes>
